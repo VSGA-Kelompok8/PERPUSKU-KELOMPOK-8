@@ -1,0 +1,1 @@
+Ini tempat menyimpan file css, javascript, dan gambar atau file pendukung lainnya.
